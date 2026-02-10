@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD student in Earth Systems Science at Stanford University. I am advised by Steve Luby (Epidemiology), Gabrielle Wong-Parodi (Environmental Behavioral Sciences), and Beatriz Magaloni-Kerpel (Poverty and Governance). I am a Knight-Hennessy Scholar, National Geographic Explorer, and Google Developer Expert. 
+Welcome! I am a PhD student in Earth Systems Science at Stanford University. I am advised by [Steve Luby](https://lubylab.stanford.edu/), [Gabrielle Wong-Parodi](https://decisionsenvironment.stanford.edu/), and [Beatriz Magaloni-Kerpel](https://povgov.com/). I am a Knight-Hennessy Scholar, National Geographic Explorer, and Google Developer Expert. 
 
 My research seeks to build public health resilience to climate shocks in humanitarian settings using remote sensing and social epidemiological methods. I also work to build global remote sensing capacity among low-resourced institutions in climate-vulnerable regions. 
 
