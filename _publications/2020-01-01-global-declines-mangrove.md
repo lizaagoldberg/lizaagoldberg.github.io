@@ -1,5 +1,5 @@
 ---
-title: "Global declines in human-driven mangrove loss"
+title: "Global Declines in Human-Driven Mangrove Loss"
 collection: publications
 category: manuscripts
 permalink: /publication/2020-global-declines-mangrove

@@ -1,5 +1,5 @@
 ---
-title: "Harnessing big data to support the conservation and rehabilitation of mangrove forests globally"
+title: "Harnessing Big Data to Support the Conservation and Rehabilitation of Mangrove Forests Globally"
 collection: publications
 category: manuscripts
 permalink: /publication/2020-harnessing-big-data-mangrove

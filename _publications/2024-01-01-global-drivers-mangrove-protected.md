@@ -1,5 +1,5 @@
 ---
-title: "Global drivers of mangrove loss in protected areas"
+title: "Global Drivers of Mangrove Loss in Protected Areas"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-global-drivers-mangrove-protected

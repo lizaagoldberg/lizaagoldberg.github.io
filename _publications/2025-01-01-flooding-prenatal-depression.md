@@ -1,5 +1,5 @@
 ---
-title: "Flooding and elevated prenatal depression in a climate-sensitive community in rural Bangladesh: a mixed methods study"
+title: "Flooding and Elevated Prenatal Depression in a Climate-Sensitive Community in Rural Bangladesh: A Mixed Methods Study"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-flooding-prenatal-depression

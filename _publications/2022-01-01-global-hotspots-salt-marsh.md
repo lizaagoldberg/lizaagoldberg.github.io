@@ -1,5 +1,5 @@
 ---
-title: "Global hotspots of salt marsh change and carbon emissions"
+title: "Global Hotspots of Salt Marsh Change and Carbon Emissions"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-global-hotspots-salt-marsh

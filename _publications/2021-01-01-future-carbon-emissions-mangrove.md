@@ -1,5 +1,5 @@
 ---
-title: "Future carbon emissions from global mangrove forest loss"
+title: "Future Carbon Emissions from Global Mangrove Forest Loss"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-future-carbon-emissions-mangrove
