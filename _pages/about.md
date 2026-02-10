@@ -1,6 +1,12 @@
+---
+permalink: /
+title: "Welcome"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
 
-Hello! Welcome to my website.
+Welcome! I am a PhD student in Earth Systems Science at Stanford University.
 
-I am a PhD student at Stanford interested in...
-
-
+I build public health resilience to climate shocks in humanitarian settings using mixed methods and remote sensing.
