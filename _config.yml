@@ -15,7 +15,7 @@ name                     : &name "Liza Goldberg"
 description              : &description "Liza Goldberg's academic website"
 url                      : https://lizaagoldberg.github.io
 baseurl                  : ""
-repository               : "lizaagoldberg/lizagoldberg.github.io"
+repository               : "lizaagoldberg/lizaagoldberg.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
